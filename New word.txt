@@ -1,0 +1,4 @@
+circle: hinh tron
+rect: hinh chu nhat
+disc: hinh dia
+square: hinh vuong
